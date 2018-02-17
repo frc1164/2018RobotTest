@@ -54,7 +54,8 @@ public class Robot extends IterativeRobot {
 		
 		Stick = new Joystick(0);
 		
-		Left0.setInverted(true);
+		Left1.setInverted(true);
+		Left2.setInverted(true);
 		Right15.setInverted(true);
 	
 
